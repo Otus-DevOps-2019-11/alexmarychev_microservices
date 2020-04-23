@@ -1,5 +1,0 @@
----
-- import_playbook: add_repo.yml 
-- import_playbook: install_docker.yml
-- import_playbook: run_docker.yml
-
